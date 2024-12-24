@@ -1,0 +1,4 @@
+gradio
+exifread
+iptcinfo3
+
